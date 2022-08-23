@@ -15,9 +15,14 @@ Maria has been assigned the following task and we are to help her
 
 # How is the district summary affected?
 
+old_district_summary_df
+
+new_district_summary_df
 
 ### How is the school summary affected?
+per_school_summary_df
 
+per_school_summary_df
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
