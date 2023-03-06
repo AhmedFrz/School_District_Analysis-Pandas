@@ -5,12 +5,12 @@
 
 We have been tasked by Chief Data Scientist (CDS) to prepare all standardized test data for analysis, reporting, and presentatio  to proivide insights about performance trends and patterns 
 
-- These insights will help in informed discussions and decision at strategic school district level. We will help CDS in 
-  -- analyzing data on student funding and students' standardized tests scores. 
-  -- We will have access to every students' math and reading scores and schools they attend 
+These insights will help in informed discussions and decision at strategic school district level. We will help CDS in 
+- analyzing data on student funding and students' standardized tests scores. 
+- We will have access to every students' math and reading scores and schools they attend 
 
-- We will help CDS to aggregate data and show trends in school  performance
-  -- This analysis will assist the school board in making decisions on school budget allocations
+We will help CDS to aggregate data and show trends in school  performance
+- This analysis will assist the school board in making decisions on school budget allocations
 
 Tools/Languages Used: Python (Jupyter notebook, Pandas)
 
