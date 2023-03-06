@@ -12,7 +12,8 @@ We have been tasked by Chief Data Scientist (CDS) to prepare all standardized te
 - We will help CDS to aggregate data and show trends in school  performance
   -- This analysis will assist the school board in making decisions on school budget allocations
 
-Tools/Languages Used: Python Jupyter notebook, Pandas
+Tools/Languages Used: Python (Jupyter notebook, Pandas)
+
 Skills applied: 
  - Cleaning and inspecting Data
  - Merging data sets
