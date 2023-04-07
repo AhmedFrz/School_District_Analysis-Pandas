@@ -3,7 +3,7 @@
 
 ### Overview of the school district analysis: Explain the purpose of this analysis.
 
-We have been tasked by Chief Data Scientist (CDS) to prepare all standardized test data for analysis, reporting, and presentatio  to proivide insights about performance trends and patterns 
+We have been tasked by Chief Data Scientist (CDS) to prepare all standardized test data for analysis, reporting, and presentation  to proivide insights about performance trends and patterns 
 
 These insights will help in informed discussions and decision at strategic school district level. We will help CDS in 
 - analyzing data on student funding and students' standardized tests scores. 
@@ -44,9 +44,7 @@ new per_school_summary_df
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 After removing the ninth graders' math and reading scores the average grades are not affected significantly
 
-
 ### How does replacing the ninth-grade scores affect the following:
-
 
 ### Math and reading scores by grade
 reading_scores_by_grade
