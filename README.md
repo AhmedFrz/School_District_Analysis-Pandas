@@ -180,14 +180,6 @@ PyCitySchools/
   </tr>
 </table>
 
-## Setup and Future Work
-
-### Installation
-```
-pip install pandas numpy jupyter matplotlib
-jupyter notebook PyCitySchools_Challenge_AF.ipynb
-```
-
 ### Future Directions
 - Longitudinal analysis to track changes over time
 - Demographic analysis and teacher-to-student ratio correlations
